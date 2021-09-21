@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hits: ![](https://komarev.com/ghpvc/?username=trushnes&color=yellowgreen)
+![](https://komarev.com/ghpvc/?username=trushnes&color=yellowgreen)
 
 <!--
 **trushnes/trushnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
