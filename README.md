@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Heart Arrhythmia Detection
+- 🔭 Currently working on Heart Arrhythmia Detection
 - 💬 Ask me about Machine Learning, Deep Learning, C++, Python, NITK, Goldman Sachs, Placement Preparation, Medicaps University, Career Advise...
 - 📫 Feel free to reach out to me on tarushijat09@gmail.com for work related queries.
 
